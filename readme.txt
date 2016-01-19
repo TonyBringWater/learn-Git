@@ -4,4 +4,8 @@ Git has a mutable index called stage.
 GIt tracks changes.
 Creating a new branch is quick AMD simple.
 
+<<<<<<< Updated upstream
 ok:
+=======
+this has a bug?no
+>>>>>>> Stashed changes
