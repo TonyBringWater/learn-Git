@@ -4,4 +4,4 @@ Git has a mutable index called stage.
 GIt tracks changes.
 Creating a new branch is quick AMD simple.
 
-ad
+ok:
